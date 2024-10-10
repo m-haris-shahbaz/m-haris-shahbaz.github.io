@@ -15,7 +15,7 @@ const list: List[] = [
     name: "About Me",
     isOpen: false,
     icon: FaUser,
-    component: <div className='animate-slidein'>I'm a passionate web developer and designer with over three years of experience in creating user-friendly, responsive websites. I love bringing ideas to life through innovative design and functionality.</div>,
+    component: <div className='animate-slidein'>I&apos;m a passionate web developer and designer with over three years of experience in creating user-friendly, responsive websites. I love bringing ideas to life through innovative design and functionality.</div>,
   },
   {
     name: "Skills",
