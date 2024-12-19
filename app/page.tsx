@@ -55,7 +55,7 @@ export default function Home() {
             <div className="space-y-2">
               <h2 className="text-lg text-primary">Hi there! 👋</h2>
               <h1 className="text-4xl md:text-6xl font-bold">
-                <span className="text-black dark:text-white">I'm </span>
+                <span className="text-black dark:text-white">I&apos;m </span>
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-primary to-blue-400">
                   Muhammad Haris
                 </span>
@@ -141,7 +141,7 @@ export default function Home() {
               Featured Projects
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
-              Some of the projects I've worked on
+              Some of the projects I&apos;ve worked on
             </p>
           </motion.div>
           <Projects />
